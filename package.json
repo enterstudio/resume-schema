@@ -20,7 +20,7 @@
     "validator.js"
   ],
   "dependencies": {
-    "z-schema": "~3.18.2"
+    "z-schema": "~5.0.1"
   },
   "devDependencies": {
     "promise": "^7.1.1",
